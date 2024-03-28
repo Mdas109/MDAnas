@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Anas sports",Star Sports Tamil Anas
+https://mdas109.github.io/1Anas/SpAnas.m3u8
+
+#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Anas sports", SPORTS 18 HD
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-tvg-logo="https://tatalogo.pages.dev/1033.png" group-title="Anas sports",Sports 18 - 1 HD khel
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+
+EXTINF:-tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Anas sports",Star Sports 1 HD
+http://148.113.5.31:8106/play/a00t/index.m3u8
+ 
+#EXTINF:-tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Anas sports",Star Sports 2 HD
+http://148.113.5.31:8106/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://tatalogo.pages.dev/114.png" group-title="Anas Kids",Disney
+http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+
+#EXTINF:-1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Anas Kids",Discovery Kids
+https://mdas109.github.io/Discoverykids.m3u8/Dis.m3u8
+
+#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Anas kids pack",Hungama Anas
+http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network Multi Audio
+http://103.131.214.129:9985/stream/channelid/1343860419.ts?ticket=385181981824C20C25624C5888D7E9CA43B80852&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Multi Audio
+http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="https://i.ibb.co/bg33hHS/download.png",Hungama Multi Audio
+http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Discovery Kids Multi Audio
+http://103.131.214.129:9985/stream/channelid/1666515958.ts?ticket=ADB7529A58A8C25B5FD6FD9B5FE26806CC0184B0&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Nickelodeon+ Multi Audio
+http://103.131.214.129:9985/stream/channelid/114851840.ts?ticket=0882A6C55D9BFDF3FD8F082A47C7DDAAE7EF4EF8&profile=pass
+
+#EXTINF:-1 tvg-id="ts45" group-title="Kids" tvg-logo="",Nick Multi Audio
+http://103.131.214.129:9985/stream/channelid/1425054071.ts?ticket=1AC802617A14321C5E932839ABCF6C2901EDDFEF&profile=pass
+
+#EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil",Sun TV HD
+https://iamranapk-com-wcc9.spidy.online/JTBExRANAPK/play.m3u8?id=998
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9CqvBX/unnamed-modified.png" group-title="Regional Tamil",Adithya TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+
+
+
+
+
+

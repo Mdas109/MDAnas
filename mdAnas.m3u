@@ -4,20 +4,28 @@
 https://mdas109.github.io/1Anas/SpAnas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Anas sports",Star Sports Tamil Anas
-https://vsd155.mycdn.me/hls/6427439598160.m3u8/sig/YHklsHiO4ck/expires/1711719690265/srcIp/152.58.215.162/urls/45.136.21.44/clientType/36/srcAg/CHROME_ANDROID/mid/7357155067728/video.m3u8?p
+https://vsd110.mycdn.me/hls/6520705256146.m3u8/sig/k8p8KRVkhbg/expires/1712735297817/srcIp/152.58.199.110/urls/185.226.52.65/clientType/36/srcAg/CHROME_ANDROID/mid/7712970917842/video.m3u8?p
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGTu88xW0ZHm7-rlWDdkMfRw0YMOBHTlnWRw&usqp=CAU" group-title="Anas sports",Star Sports Tamil Anas
-https://vsd208.mycdn.me/hls/6151956466213.m3u8/sig/9hapdI1UJCs/expires/1711719267130/srcIp/152.58.215.162/urls/45.136.22.62/clientType/36/srcAg/CHROME_ANDROID/mid/7573472823077/video.m3u8?p
+https://vsd110.mycdn.me/hls/6520705256146.m3u8/sig/k8p8KRVkhbg/expires/1712735297817/srcIp/152.58.199.110/urls/185.226.52.65/clientType/36/srcAg/CHROME_ANDROID/mid/7712970917842/video.m3u8?p
+
 
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IPL: STAR SPORTS TAMIL 1 แดดแดฐ" tvg-logo="https://i.ibb.co/FBwrRs6/TATA-IPL-2024-Logo.png" group-title="IPL (2024)",IPL: STAR SPORTS TAMIL 1 แดดแดฐ
 https://port.denver1769.in/Share.php?id=303590
+
+
 #EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IPL: STAR SPORTS TAMIL โดแต" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL (2024)",IPL: STAR SPORTS TAMIL โดแต
 https://port.denver1769.in/Share.php?id=303591
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="IND: Jio Cinema Cricket Tamil เฎคเฎฎเฎฟเฎดเฏ" tvg-logo="https://i.ibb.co/64dQN88/download-3-3.png" group-title="IPL (2024)",IND: Jio Cinema Cricket Tamil เฎคเฎฎเฎฟเฎดเฏ
 https://port.denver1769.in/Share.php?id=304282
+
 #EXTINF:-1 tvg-id="" tvg-name="IND: Jio Cinema Cricket Tamil เฎคเฎฎเฎฟเฎดเฏ" tvg-logo="https://i.ibb.co/64dQN88/download-3-3.png" group-title="IPL (2024)",IND: Jio Cinema Cricket Tamil เฎคเฎฎเฎฟเฎดเฏ
 https://port.denver1769.in/Share.php?id=304282
+
 #EXTINF:-1 tvg-id="hungama.in" tvg-name="TAMIL: HUNGAMA" tvg-logo="" group-title="KIDS",TAMIL: HUNGAMA
 https://port.denver1769.in/Share.php?id=66162
 
